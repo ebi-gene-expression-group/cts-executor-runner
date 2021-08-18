@@ -1,0 +1,13 @@
+Analysis	Software	Version	Citation
+Scpred - get output in standard format	Scpred - get output in standard format	1.0.2+galaxy0	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/scpred_get_std_output/598b1d9dd135
+Filter List	Filter List	1.0.0	
+Extract element identifiers	Extract element identifiers	0.0.2	https://toolshed.g2.bx.psu.edu/view/iuc/collection_element_identifiers/d3c07d270a50
+Filter failed	Filter failed	1.0.0	
+Scpred predict	Scpred predict	1.0.2+galaxy0	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/scpred_predict_labels/b869bb6d4b01
+Seurat Read10x	Seurat Read10x	3.1.2+galaxy0	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/seurat_read10x/893ea1e1eed3
+scpred_combine_outputs	Cell types - combine tools outputs	1.1.0+galaxy2	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/ct_combine_tool_outputs/f2e01e023137
+Scmap cluster projection	Scmap cluster projection	1.6.2+galaxy1	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/scmap_scmap_cluster/2a320bb37bf0
+Scmap pre-process	Scmap pre-process	1.6.0+galaxy0	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/scmap_preprocess_sce/559b9d22f264
+DropletUtils Read10x	DropletUtils Read10x	1.0.3+galaxy0	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/dropletutils_read_10x/48c1e7b39675
+Scmap get standard output	Scmap get standard output	1.6.2+galaxy0	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/scmap_get_std_output/0d713384d8d8
+Scmap cell projection	Scmap cell projection	1.6.2+galaxy1	https://toolshed.g2.bx.psu.edu/view/ebi-gxa/scmap_scmap_cell/1543a50e08c9
